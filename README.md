@@ -70,4 +70,4 @@ plt.show()
 # Result:
  Include your result hre
 
-
+![image](https://github.com/user-attachments/assets/9175bfc2-b046-4f73-b201-da32f55097df)
