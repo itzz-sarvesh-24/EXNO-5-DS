@@ -19,7 +19,7 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-```
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 
@@ -63,11 +63,11 @@ plt.figure(figsize=(8,5))
 sns.barplot(x="species", y="sepal_length", data=df)
 plt.title("Average Sepal Length")
 plt.show()
-...
 
-```
+
+
 
 # Result:
  Include your result hre
 
-![Result](EXNO-5-DS/output.png)
+
