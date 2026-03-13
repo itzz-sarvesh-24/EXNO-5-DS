@@ -69,4 +69,5 @@ plt.show()
 
 # Result:
  Include your result hre
-![Result](output1.png)
+
+![Result](EXNO-5-DS/output.png)
