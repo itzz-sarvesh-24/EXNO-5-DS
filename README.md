@@ -69,3 +69,4 @@ plt.show()
 
 # Result:
  Include your result hre
+![Result](output.png)
