@@ -68,6 +68,11 @@ plt.show()
 
 
 # Result:
- Include your result hre
-
-![image](https://github.com/user-attachments/assets/9175bfc2-b046-4f73-b201-da32f55097df)
+ ![WhatsApp Image 2026-03-13 at 12 05 07 PM](https://github.com/user-attachments/assets/638d162d-be6f-4cf8-be72-c2665b845ec4)
+![WhatsApp Image 2026-03-13 at 12 05 10 PM](https://github.com/user-attachments/assets/b5b0d697-5cb7-40ba-bef1-ecfc0d3b1d34)
+![WhatsApp Image 2026-03-13 at 12 05 12 PM (1)](https://github.com/user-attachments/assets/7c2e9ef1-d819-46a5-b24f-78474b490ff8)
+![WhatsApp Image 2026-03-13 at 12 05 11 PM](https://github.com/user-attachments/assets/541b78ac-9b58-4664-a045-0b4c03182a48)
+![WhatsApp Image 2026-03-13 at 12 05 12 PM](https://github.com/user-attachments/assets/985086fc-1f38-477f-b804-d125adcff31e)
+![WhatsApp Image 2026-03-13 at 12 05 14 PM (1)](https://github.com/user-attachments/assets/1b917e5c-1d50-4b7f-8adc-62161c476886)
+![WhatsApp Image 2026-03-13 at 12 05 14 PM (2)](https://github.com/user-attachments/assets/43d0c98a-8e69-42c9-8e62-2c3c381f3e11)
+![WhatsApp Image 2026-03-13 at 12 05 14 PM](https://github.com/user-attachments/assets/ebda81b4-e4e9-4757-b090-19f6e15ce5d4)
