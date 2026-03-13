@@ -18,7 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-
+```
 
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -64,7 +64,7 @@ sns.barplot(x="species", y="sepal_length", data=df)
 plt.title("Average Sepal Length")
 plt.show()
 
-
+```
 
 
 # Result:
