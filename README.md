@@ -29,8 +29,9 @@ sns.histplot(df["sepal_length"], kde=True)
 plt.title("Distribution of Sepal Length")
 plt.show()
 
+```
 <img width="687" height="468" alt="output 1" src="https://github.com/user-attachments/assets/6ec6c1b7-2243-4f0b-853d-d567634e426e" />
-
+```
 sns.jointplot(x="sepal_length", y="sepal_width", data=df, height=6)
 plt.show()
 ...
